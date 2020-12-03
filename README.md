@@ -1,6 +1,6 @@
 # Yugabyte Spring Data Rest/JPA
 
-This project showcases how to build a Spring Boot Data Rest/JPA application using Yogubyte distributed SQL, transactional NoSQL database.
+This project showcases how to build a Spring Boot Data Rest/JPA application using Yugabyte distributed SQL, transactional NoSQL database.
 
 - Spring Boot Version: 2.4.0
 - YugabyteDB Version: 2.5.0.0
